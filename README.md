@@ -32,3 +32,9 @@ expected and actual results, high quality screenshot, bug reproduction video and
 * Graduating from uTest Academy
 *	Twice nominee as a tester of the week for mobile testing and testing with Charles Proxy
 
+## Books
+
+*	Nina Zumel, John Mount - Język R i analiza danych w praktyce 
+*	Adam Roman, Lucjan Stapp – Certyfikowany tester ISTQB
+*	Alan Beaulieu – Wprowadzenie do SQL. Jak generować, pobierać i obsługiwać dane
+
