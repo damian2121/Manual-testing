@@ -27,3 +27,8 @@ expected and actual results, high quality screenshot, bug reproduction video and
 *	Exploratory testing of fast-food mobile website - writing bug reports that includes: bug title, severity, frequency of occurring, step by step reproduction, 
 expected and actual results, high quality screenshot, bug reproduction video and iOS device logs. Writing mobile website review.
 
+## Achievements
+
+* Graduating from uTest Academy
+*	Twice nominee as a tester of the week for mobile testing and testing with Charles Proxy
+
